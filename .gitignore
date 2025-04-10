@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# VSCode settings
+.vscode/
+
+# Jupyter runtime
+*.nbconvert.ipynb
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Output folders
+results/
