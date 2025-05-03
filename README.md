@@ -20,3 +20,7 @@ git clone https://github.com/Jerry-bit-Z/ECE590_Project.git
 cd ECE590_Project/SW/laura_gpt
 bash train.sh --config config/conf.yaml --gpus 0
 bash inference/infer.sh inference/infer.yaml inputs.txt
+## Pre-trained Weights & Audio Samples
+
+The pre-trained model weights and example WAV files are available on Google Drive:  
+[Download weights & samples](https://drive.google.com/drive/folders/11Xx_OO-Z9miWQaGoYRuozsjg5_APVsDw?usp=drive_link)
