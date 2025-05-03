@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/zpool-00/data/jerryzhang/SW/laura_gpt/inference/infer.py", line 6, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+Command exited with non-zero status 1
+Total inference time: 0.05 s
